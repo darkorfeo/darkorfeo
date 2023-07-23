@@ -1,8 +1,4 @@
-function help() {
-    return `
-┏ ❣ *Dark Orfeo BOT* ❣
-╿
-┷┯ ☾ Group Commands ☽
+
    ╽
    ┠❥ *!add 62858xxxxx*
    ┠❥ *!kick @tagmember*
